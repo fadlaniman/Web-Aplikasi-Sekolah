@@ -33,7 +33,7 @@ const Menu = () => {
             setGlobalState("type", true);
           }}
           className={
-            toggleNavigation ? "hidden" : "text-2xl cursor-pointer xl:hidden"
+            toggleNavigation ? "hidden" : "text-2xl cursor-pointer 2xl:hidden"
           }
         />
         <HiX
@@ -42,7 +42,7 @@ const Menu = () => {
           }}
           className={
             toggleNavigation
-              ? "text-2xl cursor-pointer xl:hidden z-30"
+              ? "text-2xl cursor-pointer 2xl:hidden z-30"
               : "hidden"
           }
         />
@@ -86,7 +86,7 @@ const Navigation = () => {
         <ul
           className={
             toggleProfil
-              ? "mx-5 2xl:p-0 p-3 bg-gray-200 grid space-y-5 text-gray-600 font-medium"
+              ? "mx-5  p-3 bg-gray-200 grid space-y-5 text-gray-600 font-medium z-20 -translate-y-5"
               : "hidden"
           }
         >

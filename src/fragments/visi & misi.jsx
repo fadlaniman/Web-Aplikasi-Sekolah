@@ -3,7 +3,7 @@ import React from "react";
 
 const Visi = () => {
   return (
-    <div className="grid py-12 bg-green-50">
+    <div className="grid py-12 bg-slate-50">
       <div className="px-7 xl:text-center xl:mx-auto">
         <h1 className="text-xl font-bold text-green-800 uppercase">
           Visi & Misi
