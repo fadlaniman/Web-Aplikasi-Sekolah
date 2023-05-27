@@ -86,7 +86,7 @@ const Navigation = () => {
         <ul
           className={
             toggleProfil
-              ? "mx-5  p-3 bg-gray-200 grid space-y-5 text-gray-600 font-medium z-20 -translate-y-5"
+              ? "mx-5  p-3 bg-gray-200 grid space-y-5 text-gray-600 font-medium z-20"
               : "hidden"
           }
         >
