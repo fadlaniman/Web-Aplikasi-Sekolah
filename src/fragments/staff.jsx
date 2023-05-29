@@ -6,18 +6,21 @@ const dataStaf = [
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
+    foto: "/public/static/images/image.jpg"
   },
   {
     id: 2,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
+    foto: "/public/static/images/image.jpg"
   },
   {
     id: 3,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
+    foto: "/public/static/images/image.jpg"
   },
 ];
 
@@ -37,7 +40,7 @@ const Staf = () => {
           <div className="grid shadow-md rounded-lg bg-white" key={data.id}>
             <img
               className="rounded-full w-40 h-40 border-4 border-grey-500 mx-auto mt-10"
-              src="/public/images/image.jpg"
+              src={data.foto}
               alt=""
             />
             <ul className="p-5 mx-auto font-light italic leading-7">

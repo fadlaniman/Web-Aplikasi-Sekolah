@@ -4,19 +4,19 @@ import React from "react";
 const dataRuang = [
   {
     id: 1,
-    img: "/public/images/image.jpg",
+    img: "/public/static/images/image.jpg",
     ruang: "Ruang Kelas",
     nama: "MIPA 1",
   },
   {
     id: 2,
-    img: "/public/images/image.jpg",
+    img: "/public/static/images/image.jpg",
     ruang: "Ruang Kelas",
     nama: "MIPA 1",
   },
   {
     id: 3,
-    img: "/public/images/image.jpg",
+    img: "/public/static/images/image.jpg",
     ruang: "Ruang Kelas",
     nama: "MIPA 1",
   },

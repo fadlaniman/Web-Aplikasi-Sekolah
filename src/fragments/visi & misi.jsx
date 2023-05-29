@@ -21,7 +21,7 @@ const Visi = () => {
           amet!
         </p>
       </div>
-      <div className="px-20 mx-auto">
+      <div className="px-12 mx-auto">
         <h2 className="text-lg font-medium text-center">Misi</h2>
         <ul className="grid space-y-3">
           <li className="text-justify">

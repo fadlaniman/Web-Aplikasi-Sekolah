@@ -4,7 +4,7 @@ import React from "react";
 const dataSarana = [
   {
     id: 1,
-    img: "/public/images/image.jpg",
+    img: "/public/static/images/image.jpg",
     nama: "Sarana Olahraga",
   },
 ];

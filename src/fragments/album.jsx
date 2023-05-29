@@ -1,10 +1,9 @@
-import { Fade } from "react-slideshow-image";
 import React from "react";
 
 const slideImages = [
-  "/public/images/image.jpg",
-  "/public/images/image.jng",
-  "/public/images/image.jpg",
+  "/public/static/images/image.jpg",
+  "/public/static/images/image.jng",
+  "/public/static/images/image.jpg",
 ];
 
 const properties = {

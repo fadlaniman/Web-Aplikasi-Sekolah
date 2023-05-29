@@ -11,10 +11,10 @@ export const { useGlobalState, setGlobalState } = createGlobalState({
 const Brand = () => {
   return (
     <div className="flex gap-3 my-auto">
-      <img className="h-16" src="/public/images/example.png" alt="" />
+      <img className="h-16" src="/public/static//images/example.png" alt="" />
       <p className="border-r-2 border-black h-10 my-auto"></p>
-      <div className="w-1/2 text-sm">
-        <h1 className="uppercase font-extrabold">
+      <div className="w-1/2 text-sm font-bold">
+        <h1 className="uppercase">
           sma swasta islam proyek uisu
         </h1>
         <p className="text-green-800 font-bold italic text-xs">Akreditas A</p>
@@ -86,7 +86,7 @@ const Navigation = () => {
         <ul
           className={
             toggleProfil
-              ? "mx-5  p-3 bg-gray-200 grid space-y-5 text-gray-600 font-medium z-20 -translate-y-5"
+              ? "mx-5  p-3 bg-gray-200 grid space-y-5 text-gray-600 font-medium z-20"
               : "hidden"
           }
         >
