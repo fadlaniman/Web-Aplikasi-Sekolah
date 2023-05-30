@@ -1,75 +1,76 @@
 import React from "react";
 
+
 const dataGuru = [
   {
     id: 1,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg"
+    foto: "/static/images/image.jpg"
   },
   {
     id: 2,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg" 
+    foto: "/static/images/image.jpg" 
   },
   {
     id: 3,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg" 
+    foto: "/static/images/image.jpg" 
   },
   {
     id: 4,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg" 
+    foto: "/static/images/image.jpg" 
   },
   {
     id: 5,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg" 
+    foto: "/static/images/image.jpg" 
   },
   {
     id: 6,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg" 
+    foto: "/static/images/image.jpg" 
   },
   {
     id: 7,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg" 
+    foto: "/static/images/image.jpg" 
   },
   {
     id: 8,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg" 
+    foto: "/static/images/image.jpg" 
   },
   {
     id: 9,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg" 
+    foto: "/static/images/image.jpg" 
   },
   {
     id: 10,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg" 
+    foto: "/static/images/image.jpg" 
   },
 ];
 
