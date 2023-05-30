@@ -12,7 +12,7 @@ const Footer = () => {
           <li className="text-center">
             <img
               className="w-20 mx-auto"
-              src="/public/static/images/example.png"
+              src="/static/images/example.png"
               alt=""
             />
           </li>

@@ -3,17 +3,17 @@ import React from "react";
 const dataPerpustakaan = [
   {
     id: 1,
-    img: "/public/static/images/image.jpg",
+    img: "/static/images/image.jpg",
     nama: "Perpustakaan",
   },
   {
     id: 2,
-    img: "/public/static/images/image.jpg",
+    img: "/static/images/image.jpg",
     nama: "Perpustakaan",
   },
   {
     id: 3,
-    img: "/public/static/images/image.jpg",
+    img: "/static/images/image.jpg",
     nama: "Perpustakaan",
   },
 ];

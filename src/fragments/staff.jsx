@@ -6,21 +6,21 @@ const dataStaf = [
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg"
+    foto: "/static/images/image.jpg"
   },
   {
     id: 2,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg"
+    foto: "/static/images/image.jpg"
   },
   {
     id: 3,
     nama: "Marison Hutagalung S,Pd",
     nip: 99999999,
     jabatan: `Guru & Bidang Kesiswaan`,
-    foto: "/public/static/images/image.jpg"
+    foto: "/static/images/image.jpg"
   },
 ];
 
